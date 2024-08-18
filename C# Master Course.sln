@@ -5,7 +5,7 @@ VisualStudioVersion = 17.12.35209.166
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1_Introduction", "1_Introduction", "{A530FE2C-F114-405D-A4F5-A9EEF50A1C70}"
 	ProjectSection(SolutionItems) = preProject
-		Introduction.md = Introduction.md
+		1_Introduction\Introduction.md = 1_Introduction\Introduction.md
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2_CSharpFundamentals", "2_CSharpFundamentals", "{5D851D76-78D2-4BA4-BAF5-74872C2E71AA}"
