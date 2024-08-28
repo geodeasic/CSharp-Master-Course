@@ -14,6 +14,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Docs", "Docs", "{481D30BD-1
 	ProjectSection(SolutionItems) = preProject
 		2_CSharpFundamentals\Docs\1. Section Introduction.md = 2_CSharpFundamentals\Docs\1. Section Introduction.md
 		2_CSharpFundamentals\Docs\10. Debugging with breakpoints.md = 2_CSharpFundamentals\Docs\10. Debugging with breakpoints.md
+		2_CSharpFundamentals\Docs\11. Coding Excercise - Variables and operators.md = 2_CSharpFundamentals\Docs\11. Coding Excercise - Variables and operators.md
 		2_CSharpFundamentals\Docs\2. Creating a C# Project.md = 2_CSharpFundamentals\Docs\2. Creating a C# Project.md
 		2_CSharpFundamentals\Docs\3. Compilation.md = 2_CSharpFundamentals\Docs\3. Compilation.md
 		2_CSharpFundamentals\Docs\4. Variables.md = 2_CSharpFundamentals\Docs\4. Variables.md
@@ -28,6 +29,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp", "2_CSharpFundamen
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{1FA05C4A-B619-4FB9-BF72-67836523CF54}"
 	ProjectSection(SolutionItems) = preProject
+		2_CSharpFundamentals\Docs\Images\excercise_1.png = 2_CSharpFundamentals\Docs\Images\excercise_1.png
 		2_CSharpFundamentals\Docs\Images\QuickWatchReevaluate.png = 2_CSharpFundamentals\Docs\Images\QuickWatchReevaluate.png
 		2_CSharpFundamentals\Docs\Images\QuickWatchWindow.png = 2_CSharpFundamentals\Docs\Images\QuickWatchWindow.png
 		2_CSharpFundamentals\Docs\Images\WatchSelect.png = 2_CSharpFundamentals\Docs\Images\WatchSelect.png
