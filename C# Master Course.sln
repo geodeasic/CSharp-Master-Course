@@ -28,6 +28,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp", "2_CSharpFundamen
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Images", "Images", "{1FA05C4A-B619-4FB9-BF72-67836523CF54}"
 	ProjectSection(SolutionItems) = preProject
+		2_CSharpFundamentals\Docs\Images\QuickWatchReevaluate.png = 2_CSharpFundamentals\Docs\Images\QuickWatchReevaluate.png
+		2_CSharpFundamentals\Docs\Images\QuickWatchWindow.png = 2_CSharpFundamentals\Docs\Images\QuickWatchWindow.png
 		2_CSharpFundamentals\Docs\Images\WatchSelect.png = 2_CSharpFundamentals\Docs\Images\WatchSelect.png
 	EndProjectSection
 EndProject
