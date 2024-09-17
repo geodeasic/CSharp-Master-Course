@@ -1,7 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("This is my name.");
+Console.WriteLine("This is my name.");
+Console.WriteLine("This is my name.");
+Console.WriteLine("This is my name.");
+Console.WriteLine("This is my name.");
 
-string myName = "Vincent";
-myName = "Mr." + " " + myName + "Tom " + "Okeyo";
-
-Console.WriteLine(myName);
+Console.ReadKey();
