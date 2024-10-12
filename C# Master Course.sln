@@ -46,6 +46,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methods", "Methods", "{3043
 		2_CSharpFundamentals\Docs\Methods\5. Parsing a String into an int.md = 2_CSharpFundamentals\Docs\Methods\5. Parsing a String into an int.md
 		2_CSharpFundamentals\Docs\Methods\5.1. Quiz - Parsing an String into an Int.md = 2_CSharpFundamentals\Docs\Methods\5.1. Quiz - Parsing an String into an Int.md
 		2_CSharpFundamentals\Docs\Methods\6. Introduction to Exceptions.md = 2_CSharpFundamentals\Docs\Methods\6. Introduction to Exceptions.md
+		2_CSharpFundamentals\Docs\Methods\7. Assignment - Calculator.md = 2_CSharpFundamentals\Docs\Methods\7. Assignment - Calculator.md
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoApp", "ToDoApp\ToDoApp.csproj", "{02D6DEA0-CAA4-47F3-93C1-6941D807649D}"

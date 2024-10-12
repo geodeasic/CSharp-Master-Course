@@ -8,7 +8,6 @@
 //    return "Incorrect";
 //}
 
-
 int GetIntFromString(string input)
 {
     int returnValue = int.Parse(input);
