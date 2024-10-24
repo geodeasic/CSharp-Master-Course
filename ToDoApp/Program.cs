@@ -8,17 +8,20 @@
 //    return "Incorrect";
 //}
 
-int GetIntFromString(string input)
-{
-    int returnValue = int.Parse(input);
+//int GetIntFromString(string input)
+//{
+//    int returnValue = int.Parse(input);
 
-    return returnValue;
-}
+//    return returnValue;
+//}
 
-int result = GetIntFromString("20");
+//int result = GetIntFromString("20");
 
-Console.WriteLine(result);
+//Console.WriteLine(result);
 
+using ToDoApp;
+
+Console.WriteLine(VariablesClass.TestVariables());
 
 Console.ReadLine();
 
