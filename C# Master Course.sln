@@ -40,8 +40,12 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Methods", "Methods", "{30436406-6E82-46FB-A65E-31817D6087C9}"
 	ProjectSection(SolutionItems) = preProject
 		2_CSharpFundamentals\Docs\Methods\1. Void Methods.md = 2_CSharpFundamentals\Docs\Methods\1. Void Methods.md
-		2_CSharpFundamentals\Docs\Methods\2. Non-void Methods.md = 2_CSharpFundamentals\Docs\Methods\2. Non-void Methods.md
 		2_CSharpFundamentals\Docs\Methods\10. Switch Statements.md = 2_CSharpFundamentals\Docs\Methods\10. Switch Statements.md
+		2_CSharpFundamentals\Docs\Methods\11. The Char Type.md = 2_CSharpFundamentals\Docs\Methods\11. The Char Type.md
+		2_CSharpFundamentals\Docs\Methods\12. Why Loops are Necessary.md = 2_CSharpFundamentals\Docs\Methods\12. Why Loops are Necessary.md
+		2_CSharpFundamentals\Docs\Methods\13. While loops - Part 1.md = 2_CSharpFundamentals\Docs\Methods\13. While loops - Part 1.md
+		2_CSharpFundamentals\Docs\Methods\14. Operators Commonly Used with Loops.md = 2_CSharpFundamentals\Docs\Methods\14. Operators Commonly Used with Loops.md
+		2_CSharpFundamentals\Docs\Methods\2. Non-void Methods.md = 2_CSharpFundamentals\Docs\Methods\2. Non-void Methods.md
 		2_CSharpFundamentals\Docs\Methods\3. Parameter Types Return Type Static Typing.md = 2_CSharpFundamentals\Docs\Methods\3. Parameter Types Return Type Static Typing.md
 		2_CSharpFundamentals\Docs\Methods\4. Quiz - Methods and Typing.md = 2_CSharpFundamentals\Docs\Methods\4. Quiz - Methods and Typing.md
 		2_CSharpFundamentals\Docs\Methods\5. Parsing a String into an int.md = 2_CSharpFundamentals\Docs\Methods\5. Parsing a String into an int.md

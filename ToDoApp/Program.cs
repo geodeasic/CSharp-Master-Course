@@ -19,18 +19,41 @@
 
 //Console.WriteLine(result);
 
-using ToDoApp;
+//using ToDoApp;
 
-string GetMyName()
+//string GetMyName()
+//{
+//    return "Vincent Okeyo";
+//}
+
+//int a = 4, b = 2, c = 15;
+//Console.WriteLine($"The first is {GetMyName()}, the second is {b}, and the third is {c}.");
+//Console.WriteLine("The first is {a}, the second is {b}, and the third is {c}.");
+
+//Console.WriteLine(VariablesClass.TestVariables());
+
+string WhichName(string userInput)
 {
-    return "Vincent Okeyo";
-}
+    //if (userInput == "Vincent")
+    //{
+    //    return "That is your first name";
+    //}
+    //else if (userInput == "Okeyo")
+    //{
+    //    return "That is your last name";
+    //}
+    //else
+    //{
+    //    return "That is not your name";
+    //}
 
-int a = 4, b = 2, c = 15;
-Console.WriteLine($"The first is {GetMyName()}, the second is {b}, and the third is {c}.");
-Console.WriteLine("The first is {a}, the second is {b}, and the third is {c}.");
-
-Console.WriteLine(VariablesClass.TestVariables());
+    return userInput switch
+    {
+        "Vincent" => "That is your first name",
+        "Okeyo" => "That is your last name",
+        _ => "That is not your name",
+    };
+})
 
 Console.ReadLine();
 
